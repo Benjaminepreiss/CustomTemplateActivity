@@ -1,0 +1,2 @@
+# CustomTemplateActivity
+Customizing Bootstrap elements
